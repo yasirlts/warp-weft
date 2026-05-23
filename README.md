@@ -10,4 +10,4 @@ PhoneNumber are real compiler-enforced types — not
 strings you hope are correct at runtime.
 
 Active Warp development: github.com/yasirlts/warp (private)
-Built on WeaveMindAI/weft (MIT License) · commit 251323c
+Built on WeaveMindAI/weft (O'Saasy License — see LICENSE) · commit 251323c
